@@ -7,7 +7,7 @@ printf("Circle with radius of %f units has area of %f units squared\n", r, area)
 
 int main(void) {
   for (float x=3.5;x<=12.5;x++){
-      areaofcircle(x);
+      areaOfCircle(x);
   }
 return 0;
 }
